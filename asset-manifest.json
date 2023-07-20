@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58dcc67f.css",
+    "main.js": "/static/js/main.c4b46d8f.js",
+    "static/js/787.90ea6e5f.chunk.js": "/static/js/787.90ea6e5f.chunk.js",
+    "static/media/home-background.png": "/static/media/home-background.f51014788819701b7119.png",
+    "static/media/hrnet-logo.png": "/static/media/hrnet-logo.5afe3cce9044b112b904.png",
+    "static/media/arrow-up.svg": "/static/media/arrow-up.76a3feb0dcf0455e4c417dcc91e0d8bb.svg",
+    "static/media/arrow-up-grey.svg": "/static/media/arrow-up-grey.f71311f33feb951a4ca0ce5cecc510cc.svg",
+    "static/media/arrow-down.svg": "/static/media/arrow-down.facfb986b3accf4974730cde8224928a.svg",
+    "static/media/arrow-down-grey.svg": "/static/media/arrow-down-grey.0c57c79e53ff473c9d70d5bd8b53aed2.svg",
+    "static/media/close.svg": "/static/media/close.56aab3861181c0b91d3e6e5c8d082e50.svg",
+    "index.html": "/index.html",
+    "main.58dcc67f.css.map": "/static/css/main.58dcc67f.css.map",
+    "main.c4b46d8f.js.map": "/static/js/main.c4b46d8f.js.map",
+    "787.90ea6e5f.chunk.js.map": "/static/js/787.90ea6e5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58dcc67f.css",
+    "static/js/main.c4b46d8f.js"
+  ]
+}
